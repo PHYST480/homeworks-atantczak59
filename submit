@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m "Completed all but Problem 4"
+git push
